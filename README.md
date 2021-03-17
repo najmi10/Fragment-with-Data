@@ -3,5 +3,5 @@ Fragment merupakan salah satu komponen pada Android Studio dengan fungsi yang ha
 
 Kelebihan yang didapatkan bila menggunakan fragment adalah sebagai berikut:
 
--[x] Tidak perlu memasukkan nama file fragment ke dalam “AndroidManifest” yang diperlukan oleh activity.
--[x] Fungsi yang berada pada activity dapat langsung digunakan dalam fragment tersebut tanpa harus membuat ulang. Contoh: pada saat back, fragment hanya perlu memanggil fungsi “getactivity
+- [x] Tidak perlu memasukkan nama file fragment ke dalam “AndroidManifest” yang diperlukan oleh activity.
+- [x] Fungsi yang berada pada activity dapat langsung digunakan dalam fragment tersebut tanpa harus membuat ulang. Contoh: pada saat back, fragment hanya perlu memanggil fungsi “getactivity
